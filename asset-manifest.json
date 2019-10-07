@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/postsapp/static/css/main.34de6062.chunk.css",
+    "main.js": "/postsapp/static/js/main.e9c745f2.chunk.js",
+    "main.js.map": "/postsapp/static/js/main.e9c745f2.chunk.js.map",
+    "runtime-main.js": "/postsapp/static/js/runtime-main.7751c6cd.js",
+    "runtime-main.js.map": "/postsapp/static/js/runtime-main.7751c6cd.js.map",
+    "static/css/2.0624914a.chunk.css": "/postsapp/static/css/2.0624914a.chunk.css",
+    "static/js/2.48c72aa1.chunk.js": "/postsapp/static/js/2.48c72aa1.chunk.js",
+    "static/js/2.48c72aa1.chunk.js.map": "/postsapp/static/js/2.48c72aa1.chunk.js.map",
+    "index.html": "/postsapp/index.html",
+    "precache-manifest.3d372b27f566c7f48b29a80ab5eeb6c4.js": "/postsapp/precache-manifest.3d372b27f566c7f48b29a80ab5eeb6c4.js",
+    "service-worker.js": "/postsapp/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/postsapp/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/postsapp/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7751c6cd.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.48c72aa1.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.e9c745f2.chunk.js"
+  ]
+}
