@@ -26,7 +26,7 @@ export default class LoginForm extends CustomForm {
         const result = login(this.state.data);
         if (result) { 
             console.log("Submitted", this.state.errors , "result" , result);
-            window.location = "/dashboard" 
+            window.location = "/postsapp/profile" 
         }
         else {
             const errors = {...this.state.errors};

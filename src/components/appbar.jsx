@@ -23,9 +23,9 @@ const Appbar =  ({ user }) => {
                     { !_.isEmpty(user) && 
                     <React.Fragment>
                         <NavDropdown title={user.name} id="basic-nav-dropdown">
-                            <NavDropdown.Item href="/dashboard">Dashboard</NavDropdown.Item>
+                            <NavLink className="dropdown-item" to="/profile">Dashboard</NavLink>
                             <NavDropdown.Divider />
-                            <NavDropdown.Item href="/logout">Logout</NavDropdown.Item>
+                            <NavLink className="dropdown-item" to="/logout">Logout</NavLink>
                         </NavDropdown>
                     </React.Fragment>
                     }
