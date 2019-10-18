@@ -37,7 +37,7 @@ class App extends Component {
         <Container className="pt-3">
           <Switch>
             <ProtectedRoute showOnUser={true} path='/logout' component={Logout} />
-            <ProtectedRoute showOnUser={true} path='/profile' component={Dashboard} />
+            <ProtectedRoute showOnUser={true} path='/dashboard' component={Dashboard} />
             <ProtectedRoute showOnUser={false} path='/register' component={RegisterForm} />
             <ProtectedRoute showOnUser={false} path='/login' component={LoginForm} />
             <Route path='/posts' component={PostList} />
